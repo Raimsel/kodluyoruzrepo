@@ -12,6 +12,8 @@
 
 
 
+[Patika Profilim İçin Tıkla](https://app.patika.dev/raimsel)
+
 
 
 
